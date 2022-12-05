@@ -1,0 +1,15 @@
+C:\Users\douglas.menchon\Desktop\C#\Lógica\bin\Debug\net6.0\Lógica.exe
+C:\Users\douglas.menchon\Desktop\C#\Lógica\bin\Debug\net6.0\Lógica.deps.json
+C:\Users\douglas.menchon\Desktop\C#\Lógica\bin\Debug\net6.0\Lógica.runtimeconfig.json
+C:\Users\douglas.menchon\Desktop\C#\Lógica\bin\Debug\net6.0\Lógica.dll
+C:\Users\douglas.menchon\Desktop\C#\Lógica\bin\Debug\net6.0\Lógica.pdb
+C:\Users\douglas.menchon\Desktop\C#\Lógica\obj\Debug\net6.0\Lógica.csproj.AssemblyReference.cache
+C:\Users\douglas.menchon\Desktop\C#\Lógica\obj\Debug\net6.0\Lógica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\douglas.menchon\Desktop\C#\Lógica\obj\Debug\net6.0\Lógica.AssemblyInfoInputs.cache
+C:\Users\douglas.menchon\Desktop\C#\Lógica\obj\Debug\net6.0\Lógica.AssemblyInfo.cs
+C:\Users\douglas.menchon\Desktop\C#\Lógica\obj\Debug\net6.0\Lógica.csproj.CoreCompileInputs.cache
+C:\Users\douglas.menchon\Desktop\C#\Lógica\obj\Debug\net6.0\Lógica.dll
+C:\Users\douglas.menchon\Desktop\C#\Lógica\obj\Debug\net6.0\refint\Lógica.dll
+C:\Users\douglas.menchon\Desktop\C#\Lógica\obj\Debug\net6.0\Lógica.pdb
+C:\Users\douglas.menchon\Desktop\C#\Lógica\obj\Debug\net6.0\Lógica.genruntimeconfig.cache
+C:\Users\douglas.menchon\Desktop\C#\Lógica\obj\Debug\net6.0\ref\Lógica.dll
