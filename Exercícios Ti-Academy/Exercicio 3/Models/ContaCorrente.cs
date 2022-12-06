@@ -8,8 +8,8 @@ namespace Exercicio_3.Models
     public class ContaCorrente
     {
         public string? NomeCorrentista { get; set; }
-        public int NumeroConta { get; set; }
-        public int NumeroAgencia { get; set; }
+        private int NumeroConta { get; set; }
+        private int NumeroAgencia { get; set; }
         private double Saldo { get; set; }
     }
 }
