@@ -1,0 +1,7 @@
+C:\Users\douglas.menchon\Desktop\Course\Enumeração\Enumeração\bin\Debug\Enumeração.exe.config
+C:\Users\douglas.menchon\Desktop\Course\Enumeração\Enumeração\bin\Debug\Enumeração.exe
+C:\Users\douglas.menchon\Desktop\Course\Enumeração\Enumeração\bin\Debug\Enumeração.pdb
+C:\Users\douglas.menchon\Desktop\Course\Enumeração\Enumeração\obj\Debug\Enumeração.csprojAssemblyReference.cache
+C:\Users\douglas.menchon\Desktop\Course\Enumeração\Enumeração\obj\Debug\Enumeração.csproj.CoreCompileInputs.cache
+C:\Users\douglas.menchon\Desktop\Course\Enumeração\Enumeração\obj\Debug\Enumeração.exe
+C:\Users\douglas.menchon\Desktop\Course\Enumeração\Enumeração\obj\Debug\Enumeração.pdb
