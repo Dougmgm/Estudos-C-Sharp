@@ -21,6 +21,6 @@ namespace Exercício.Entities
             Name = name;
             Email = email;
             BirthDate = birthDate;
-        }
+        }        
     }
 }

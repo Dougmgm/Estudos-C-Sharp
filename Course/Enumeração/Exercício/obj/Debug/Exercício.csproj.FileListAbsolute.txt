@@ -4,3 +4,4 @@ C:\Users\douglas.menchon\Desktop\Course\Enumeração\Exercício\bin\Debug\Exerc�
 C:\Users\douglas.menchon\Desktop\Course\Enumeração\Exercício\obj\Debug\Exercício.csproj.CoreCompileInputs.cache
 C:\Users\douglas.menchon\Desktop\Course\Enumeração\Exercício\obj\Debug\Exercício.exe
 C:\Users\douglas.menchon\Desktop\Course\Enumeração\Exercício\obj\Debug\Exercício.pdb
+C:\Users\douglas.menchon\Desktop\Course\Enumeração\Exercício\obj\Debug\Exercício.csprojAssemblyReference.cache

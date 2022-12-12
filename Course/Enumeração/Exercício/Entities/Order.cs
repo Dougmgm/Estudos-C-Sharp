@@ -36,11 +36,25 @@ namespace Exercício.Entities
         public double Total()
         {
             double sum = 0;
-            foreach (OrderItem item in Item)
-            {
+            foreach (OrderItem item in Item)  {
                 sum += item.SubTotal();
             }
             return sum;
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine("Order status: " + Status);
+            sb.AppendLine("Client: " + Client);
+            sb.AppendLine("Order items:");
+            foreach (OrderItem item in Item)
+            {
+                sb.AppendLine(item.ToString());
+            }
+            sb.AppendLine("Total price: $" + Total().ToString("F2"));
+            return sb.ToString();
         }
     }
 }

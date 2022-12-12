@@ -32,6 +32,7 @@ namespace Exercício
 
             Client client = new Client(clientName, email, birthDate); // Objeto após definir valores pois tem que enviar eles para a memória
             Order order = new Order(DateTime.Now, status, client);
+
             Console.Write("How many items to this order? ");
             int n = int.Parse(Console.ReadLine());
             for(int i = 1; i <= n; i++)
@@ -43,9 +44,18 @@ namespace Exercício
                 double productPrice = double.Parse(Console.ReadLine());
                 Console.Write("Quantity: ");
                 int productQuantitity = int.Parse(Console.ReadLine());
+
+                Product product = new Product(productName, productPrice);
+                OrderItem orderItem = new OrderItem(productQuantitity, productPrice, product);
+
+                order.AddItem(orderItem); // para salvar na memória e ser acessado fora do loop 
             }
 
+            Console.WriteLine();
+            Console.WriteLine("ORDER SUMMARY: ");
+            Console.WriteLine(order);
+
             //Fazer um ToString para puxar os dados
-        }       
+        }
     }
 }
