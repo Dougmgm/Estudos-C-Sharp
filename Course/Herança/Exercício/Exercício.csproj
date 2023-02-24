@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BB1DBF1E-FC6F-4106-8C70-F09E4D6C936C}</ProjectGuid>
+    <ProjectGuid>{6805782A-9D6E-4E4F-ACF0-AC37BC7D47A4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Herança</RootNamespace>
-    <AssemblyName>Herança</AssemblyName>
+    <RootNamespace>Exercício</RootNamespace>
+    <AssemblyName>Exercício</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\Account.cs" />
-    <Compile Include="Entities\BusinessAccount.cs" />
-    <Compile Include="Entities\SavingsAccount.cs" />
+    <Compile Include="Entities\Employee.cs" />
+    <Compile Include="Entities\ImportedProduct.cs" />
+    <Compile Include="Entities\OutsourcedEmployee.cs" />
+    <Compile Include="Entities\Product.cs" />
+    <Compile Include="Entities\UsedProduct.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

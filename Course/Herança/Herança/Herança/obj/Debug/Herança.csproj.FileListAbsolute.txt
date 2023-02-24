@@ -1,0 +1,8 @@
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Herança\Herança\bin\Debug\Herança.exe.config
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Herança\Herança\bin\Debug\Herança.exe
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Herança\Herança\bin\Debug\Herança.pdb
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Herança\Herança\obj\Debug\Herança.csproj.CoreCompileInputs.cache
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Herança\Herança\obj\Debug\Herança.exe
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Herança\Herança\obj\Debug\Herança.pdb
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Herança\Herança\obj\Debug\Herança.csproj.AssemblyReference.cache
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Herança\Herança\obj\Debug\Herança.csproj.SuggestedBindingRedirects.cache
