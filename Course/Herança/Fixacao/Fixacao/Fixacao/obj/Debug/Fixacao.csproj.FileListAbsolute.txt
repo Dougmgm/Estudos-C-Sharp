@@ -1,0 +1,7 @@
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Fixacao\Fixacao\Fixacao\bin\Debug\Fixacao.exe.config
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Fixacao\Fixacao\Fixacao\bin\Debug\Fixacao.exe
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Fixacao\Fixacao\Fixacao\bin\Debug\Fixacao.pdb
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Fixacao\Fixacao\Fixacao\obj\Debug\Fixacao.csprojAssemblyReference.cache
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Fixacao\Fixacao\Fixacao\obj\Debug\Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Fixacao\Fixacao\Fixacao\obj\Debug\Fixacao.exe
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Fixacao\Fixacao\Fixacao\obj\Debug\Fixacao.pdb

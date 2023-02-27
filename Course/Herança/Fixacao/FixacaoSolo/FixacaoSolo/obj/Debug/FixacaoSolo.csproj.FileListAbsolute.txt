@@ -1,0 +1,7 @@
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Fixacao\FixacaoSolo\FixacaoSolo\bin\Debug\FixacaoSolo.exe.config
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Fixacao\FixacaoSolo\FixacaoSolo\bin\Debug\FixacaoSolo.exe
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Fixacao\FixacaoSolo\FixacaoSolo\bin\Debug\FixacaoSolo.pdb
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Fixacao\FixacaoSolo\FixacaoSolo\obj\Debug\FixacaoSolo.csprojAssemblyReference.cache
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Fixacao\FixacaoSolo\FixacaoSolo\obj\Debug\FixacaoSolo.csproj.CoreCompileInputs.cache
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Fixacao\FixacaoSolo\FixacaoSolo\obj\Debug\FixacaoSolo.exe
+C:\Users\douglas.menchon\Desktop\C#\Course\Herança\Fixacao\FixacaoSolo\FixacaoSolo\obj\Debug\FixacaoSolo.pdb
